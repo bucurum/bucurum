@@ -1,6 +1,6 @@
 ### Hi👋, I`m Berke 
 - 🔭 I’m currently working on Game Development
-- - 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently learning C# and Unity
 <!--
 **bucurum/bucurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
